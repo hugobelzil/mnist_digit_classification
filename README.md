@@ -1,6 +1,9 @@
 
 # MNIST Digits Project
 
+The goal of this project was to implement a few supervised and unsupervised learning techniques to the famous MNIST digits dataset to observe if the 784-dimensional (28x28) pictures could be reduced (or not!) into lower-dimensional objects for classification purposes. We wish to compare our results with accuracies obtained by "traditional" neural networks approaches.
+
+Implementation on Python using Pandas, NumPy and Sci-Kit Learn, across 3 different notebooks (see [here](https://sites.google.com/view/hugobelzil/projects/mnist-project?authuser=0))
 
 
 ## Data Preprocessing
